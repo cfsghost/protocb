@@ -1,0 +1,26 @@
+{
+	"name": "protocb",
+	"version": "0.0.1",
+	"description": "remote callback protocol for Node.js",
+	"keywords": [
+		"protocol"
+	],
+	"homepage": "https://github.com/cfsghost/protocb",
+	"author": {
+		"name": "Fred Chien(錢逢祥)",
+		"email": "cfsghost@gmail.com",
+		"web": "http://fred-zone.blogspot.com/"
+	},
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "git@github.com:cfsghost/protocb.git"
+	},
+	"directories": {
+		"tests": "lib"
+	},
+	"engines": {
+		"node": ">= 0.4.0"
+	},
+	"main": "./lib/protocb.js"
+}
